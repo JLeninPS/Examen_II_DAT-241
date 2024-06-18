@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A90426-A6EC-4396-A592-B36CCE69CF0D}|capaDatos\\capaDatos.csproj|c:\\users\\lenin\\onedrive\\documentos\\2024\\2024_i\\dat-241\\examenes\\examen_ii\\p1\\capadatos\\d_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A90426-A6EC-4396-A592-B36CCE69CF0D}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\d_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E48B38-4644-4382-80AF-4CA046776B1E}|capaEntidad\\capaEntidad.csproj|c:\\users\\lenin\\onedrive\\documentos\\2024\\2024_i\\dat-241\\examenes\\examen_ii\\p1\\capaentidad\\e_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E48B38-4644-4382-80AF-4CA046776B1E}|capaEntidad\\capaEntidad.csproj|solutionrelative:capaentidad\\e_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E_Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p1\\capaEntidad\\E_Alumno.cs",
+              "RelativeDocumentMoniker": "capaEntidad\\E_Alumno.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p1\\capaEntidad\\E_Alumno.cs",
+              "RelativeToolTip": "capaEntidad\\E_Alumno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:14:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D_Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p1\\capaDatos\\D_Alumno.cs",
+              "RelativeDocumentMoniker": "capaDatos\\D_Alumno.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p1\\capaDatos\\D_Alumno.cs",
+              "RelativeToolTip": "capaDatos\\D_Alumno.cs",
+              "ViewState": "AQIAAAoAAAAANDMzMzPjvyoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:35:11.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

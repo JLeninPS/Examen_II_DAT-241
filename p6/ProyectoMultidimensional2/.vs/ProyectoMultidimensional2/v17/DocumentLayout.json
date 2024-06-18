@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p6\\ProyectoMultidimensional2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07875719-76BC-4C05-BEC4-9AF8C21EBE54}|ProyectoMultidimensional2\\ProyectoMultidimensional2.dwproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p6\\ProyectoMultidimensional2\\ProyectoMultidimensional2\\staging.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{07875719-76BC-4C05-BEC4-9AF8C21EBE54}|ProyectoMultidimensional2\\ProyectoMultidimensional2.dwproj|solutionrelative:ProyectoMultidimensional2\\staging.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staging.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p6\\ProyectoMultidimensional2\\ProyectoMultidimensional2\\staging.cube",
+              "RelativeDocumentMoniker": "ProyectoMultidimensional2\\staging.cube",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p6\\ProyectoMultidimensional2\\ProyectoMultidimensional2\\staging.cube [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoMultidimensional2\\staging.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-18T21:17:22.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

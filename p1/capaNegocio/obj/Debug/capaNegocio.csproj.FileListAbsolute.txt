@@ -1,0 +1,11 @@
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\obj\Debug\capaNego.836DF9B9.Up2Date
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaNegocio\obj\Debug\capaNegocio.pdb

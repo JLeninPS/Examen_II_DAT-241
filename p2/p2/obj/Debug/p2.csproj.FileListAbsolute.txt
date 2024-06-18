@@ -1,0 +1,10 @@
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\bin\Debug\p2.exe.config
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\bin\Debug\p2.exe
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\bin\Debug\p2.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.Form1.resources
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.Properties.Resources.resources
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.csproj.GenerateResource.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.exe
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p2\p2\obj\Debug\p2.pdb

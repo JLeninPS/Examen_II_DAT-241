@@ -1,0 +1,9 @@
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\obj\Debug\capaDatos.csproj.Up2Date
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaDatos\obj\Debug\capaDatos.pdb

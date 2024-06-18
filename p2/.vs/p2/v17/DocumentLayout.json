@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90F3D10-E527-4443-A9F6-77E4DEF67487}|p2\\p2.csproj|c:\\users\\lenin\\onedrive\\documentos\\2024\\2024_i\\dat-241\\examenes\\examen_ii\\p2\\p2\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90F3D10-E527-4443-A9F6-77E4DEF67487}|p2\\p2.csproj|solutionrelative:p2\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90F3D10-E527-4443-A9F6-77E4DEF67487}|p2\\p2.csproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90F3D10-E527-4443-A9F6-77E4DEF67487}|p2\\p2.csproj|solutionrelative:p2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90F3D10-E527-4443-A9F6-77E4DEF67487}|p2\\p2.csproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90F3D10-E527-4443-A9F6-77E4DEF67487}|p2\\p2.csproj|solutionrelative:p2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funciones.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\funciones.cs",
+              "RelativeDocumentMoniker": "p2\\funciones.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\funciones.cs",
+              "RelativeToolTip": "p2\\funciones.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:06:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\Form1.cs",
+              "RelativeDocumentMoniker": "p2\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\Form1.cs",
+              "RelativeToolTip": "p2\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:50:05.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\Form1.cs",
+              "RelativeDocumentMoniker": "p2\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_II\\p2\\p2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "p2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:27:33.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

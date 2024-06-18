@@ -1,0 +1,6 @@
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\lenin\OneDrive\Documentos\2024\2024_I\DAT-241\Examenes\Examen_II\p1\capaEntidad\obj\Debug\capaEntidad.pdb

@@ -1,0 +1,220 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="eed6167e-78f8-4fa0-be89-916c922a2b1b" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>staging</ID>
+  <Name>staging</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>staging</DataSourceID>
+  <Schema>
+    <xs:schema id="staging" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="staging" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="82bf76a9-6e3d-4070-8068-d0d82fdefcee">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_fact_hechos" msprop:DbTableName="fact_hechos" msprop:FriendlyName="fact_hechos" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="b6c0046a-79b4-474e-80b2-0d3670a0a4f6">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="idPais" msprop:FriendlyName="idPais" msprop:DbColumnName="idPais" msprop:design-time-name="21d21d76-f03f-4ea5-a8a9-24e7b371d80f">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="3" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="idContinente" msprop:FriendlyName="idContinente" msprop:DbColumnName="idContinente" msprop:design-time-name="5a28fabe-14f0-457e-bc87-43bd492d8c80" type="xs:int" />
+                  <xs:element name="idRegion" msprop:FriendlyName="idRegion" msprop:DbColumnName="idRegion" msprop:design-time-name="c6c0a165-df5d-45e1-afe1-27cef5ea502e" type="xs:int" />
+                  <xs:element name="idFormGob" msprop:FriendlyName="idFormGob" msprop:DbColumnName="idFormGob" msprop:design-time-name="5963817d-2b2f-4902-9485-d769d125c60c" type="xs:int" />
+                  <xs:element name="SurfaceArea" msprop:FriendlyName="SurfaceArea" msprop:DbColumnName="SurfaceArea" msprop:design-time-name="1be5803b-9cb7-482c-b00e-99b5ecd6bb24" type="xs:decimal" />
+                  <xs:element name="Population" msprop:FriendlyName="Population" msprop:DbColumnName="Population" msprop:design-time-name="b6cea254-fc45-464c-9426-748969173c32" type="xs:int" />
+                  <xs:element name="LifeExpectancy" msprop:FriendlyName="LifeExpectancy" msprop:DbColumnName="LifeExpectancy" msprop:design-time-name="070ce41f-c55e-47a3-8525-ac300b98f1f7" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="GNP" msprop:FriendlyName="GNP" msprop:DbColumnName="GNP" msprop:design-time-name="a1af8764-342d-4eb1-89f7-a6862f12e497" type="xs:decimal" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_dim_ciudad" msprop:DbTableName="dim_ciudad" msprop:FriendlyName="dim_ciudad" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="47f6f133-48ad-4eda-aa46-2f716e0a2163">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="idCiudad" msprop:FriendlyName="idCiudad" msprop:DbColumnName="idCiudad" msprop:design-time-name="7a33ed57-8413-4f4d-896f-d16c1218e1d8" type="xs:int" />
+                  <xs:element name="idPais" msprop:FriendlyName="idPais" msprop:DbColumnName="idPais" msprop:design-time-name="56123111-425f-4fc4-83da-c52ef6f84234" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="3" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nombre" msprop:FriendlyName="nombre" msprop:DbColumnName="nombre" msprop:design-time-name="4dcec456-23b0-4781-8613-12c1197d16d1" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="35" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="idDistrito" msprop:FriendlyName="idDistrito" msprop:DbColumnName="idDistrito" msprop:design-time-name="2670b6d9-191b-4510-9b0e-5d6d0d26591e" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_dim_continente" msprop:DbTableName="dim_continente" msprop:FriendlyName="dim_continente" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="f6190abd-65b7-46d6-b4ed-98e2cddbdd32">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="continente" msprop:FriendlyName="continente" msprop:DbColumnName="continente" msprop:design-time-name="df61be06-fb7b-459f-ad2b-b22471113eae">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="idContinente" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:FriendlyName="idContinente" msprop:DbColumnName="idContinente" msprop:design-time-name="45e512b5-5d3b-4c9e-a74c-75973efcdd43" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_dim_distrito" msprop:DbTableName="dim_distrito" msprop:FriendlyName="dim_distrito" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="ae8272a6-8994-4459-8fd2-72991e6b5128">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="distrito" msprop:FriendlyName="distrito" msprop:DbColumnName="distrito" msprop:design-time-name="9677d581-e4f5-4ade-8757-06544f06552a" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="idDistrito" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:FriendlyName="idDistrito" msprop:DbColumnName="idDistrito" msprop:design-time-name="9afe3867-c9b2-4194-9b30-c3c233fdee70" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_dim_formaGobierno" msprop:DbTableName="dim_formaGobierno" msprop:FriendlyName="dim_formaGobierno" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="f2e238ca-7558-4364-8e91-9fa301dae3aa">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="GovernmentForm" msprop:FriendlyName="GovernmentForm" msprop:DbColumnName="GovernmentForm" msprop:design-time-name="f13a0bec-30dd-4a08-b956-2e346027c350">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="45" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="idFormGob" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:FriendlyName="idFormGob" msprop:DbColumnName="idFormGob" msprop:design-time-name="e13650b3-c1e4-4daa-ac40-2dcc818d3d7a" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_dim_pais" msprop:DbTableName="dim_pais" msprop:FriendlyName="dim_pais" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="ac113dfe-5689-4e85-8356-c556e0e7f518">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="idPais" msprop:FriendlyName="idPais" msprop:DbColumnName="idPais" msprop:design-time-name="e46512dd-576a-465e-9e93-0e95e24516ee">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="3" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nombre" msprop:FriendlyName="nombre" msprop:DbColumnName="nombre" msprop:design-time-name="e397f45e-227e-4158-8f74-4f58250b69e9">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="52" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_dim_region" msprop:DbTableName="dim_region" msprop:FriendlyName="dim_region" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="d1412be2-a7f0-409e-8dae-21a82eb70024">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="region" msprop:FriendlyName="region" msprop:DbColumnName="region" msprop:design-time-name="d03ce832-b4ef-49af-b9ad-2c64555f745a">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="26" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="idRegion" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:FriendlyName="idRegion" msprop:DbColumnName="idRegion" msprop:design-time-name="73e8df28-19b8-46df-b4b3-804256bad492" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_dim_ciudad" />
+          <xs:field xpath="idCiudad" />
+        </xs:unique>
+        <xs:unique name="dbo_dim_continente_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_dim_continente" />
+          <xs:field xpath="idContinente" />
+        </xs:unique>
+        <xs:unique name="dbo_dim_distrito_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_dim_distrito" />
+          <xs:field xpath="idDistrito" />
+        </xs:unique>
+        <xs:unique name="dbo_dim_formaGobierno_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_dim_formaGobierno" />
+          <xs:field xpath="idFormGob" />
+        </xs:unique>
+        <xs:unique name="dbo_dim_pais_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_dim_pais" />
+          <xs:field xpath="idPais" />
+        </xs:unique>
+        <xs:unique name="dbo_dim_region_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_dim_region" />
+          <xs:field xpath="idRegion" />
+        </xs:unique>
+        <xs:keyref name="FK__dim_ciuda__idPai__2EDAF651" refer="dbo_dim_pais_Constraint1">
+          <xs:selector xpath=".//dbo_dim_ciudad" />
+          <xs:field xpath="idPais" />
+        </xs:keyref>
+        <xs:keyref name="FK__dim_ciuda__idDis__2BFE89A6" refer="dbo_dim_distrito_Constraint1">
+          <xs:selector xpath=".//dbo_dim_ciudad" />
+          <xs:field xpath="idDistrito" />
+        </xs:keyref>
+        <xs:keyref name="FK__fact_hech__idReg__3864608B" refer="dbo_dim_region_Constraint1">
+          <xs:selector xpath=".//dbo_fact_hechos" />
+          <xs:field xpath="idRegion" />
+        </xs:keyref>
+        <xs:keyref name="FK__fact_hech__idCon__37703C52" refer="dbo_dim_continente_Constraint1">
+          <xs:selector xpath=".//dbo_fact_hechos" />
+          <xs:field xpath="idContinente" />
+        </xs:keyref>
+        <xs:keyref name="FK__fact_hech__idPai__367C1819" refer="dbo_dim_pais_Constraint1">
+          <xs:selector xpath=".//dbo_fact_hechos" />
+          <xs:field xpath="idPais" />
+        </xs:keyref>
+        <xs:keyref name="FK__fact_hech__idFor__395884C4" refer="dbo_dim_formaGobierno_Constraint1">
+          <xs:selector xpath=".//dbo_fact_hechos" />
+          <xs:field xpath="idFormGob" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <staging xmlns="" />
+  </Schema>
+</DataSourceView>
